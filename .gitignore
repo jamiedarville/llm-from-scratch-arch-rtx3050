@@ -1,0 +1,11 @@
+# Virtual environment & Python cache
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dataset and trained model checkpoints (large binary files)
+input.txt
+*.pt
+*.pth
+*.bin
